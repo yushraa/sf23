@@ -4,4 +4,4 @@ from prime_sieve.array import PrimeArraySieve
 sieve = PrimeArraySieve()
 
 print(sieve.nth_prime(0))  # 2
-print(sieve[4])  # 7
+print(sieve[4])  # 11
